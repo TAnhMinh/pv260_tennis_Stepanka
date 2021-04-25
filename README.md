@@ -13,6 +13,8 @@
 - If scores are equal, e.g. both have 30, it is called `30 all`
 - If both players have 40 points, it is called `deuce`
 
+
+
 ## Task
 
 - Try to not skip ahead and always have passing tests for
